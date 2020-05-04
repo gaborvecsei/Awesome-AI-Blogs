@@ -12,6 +12,8 @@ This list is not in any order, these were the blogs which popped into my mind
 - [OpenAI Blog](https://openai.com/blog/)
 - [inFERENCe](https://www.inference.vc/)
 - [Lil'Log](https://lilianweng.github.io/lil-log/)
+- [Erik Bernhardsson's Blog](https://erikbern.com/)
+- [Multithreaded Blog](https://multithreaded.stitchfix.com/blog/)
 
 ## Useful websites
 
